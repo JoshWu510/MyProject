@@ -1,0 +1,2 @@
+# Myproject
+Add Resource = tool
