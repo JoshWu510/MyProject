@@ -1,2 +1,3 @@
 # Myproject
-Add Resource = tool
+將執行檔另外包裝起來執行(可能會被認為病毒)
+需將原執行檔加入資源
